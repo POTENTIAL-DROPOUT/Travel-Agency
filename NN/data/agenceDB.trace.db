@@ -1,0 +1,24 @@
+2025-07-11 10:19:20.641646Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CLIENTS" not found; SQL statement:
+UPDATE clients SET archive = false WHERE id = ? [42102-232]
+2025-07-11 10:19:22.633546Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CLIENTS" not found; SQL statement:
+UPDATE clients SET archive = false WHERE id = ? [42102-232]
+2025-07-11 10:19:23.238090Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CLIENTS" not found; SQL statement:
+UPDATE clients SET archive = false WHERE id = ? [42102-232]
+2025-07-11 10:19:23.430662Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CLIENTS" not found; SQL statement:
+UPDATE clients SET archive = false WHERE id = ? [42102-232]
+2025-07-11 10:24:42.054055Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CLIENTS" not found; SQL statement:
+UPDATE clients SET archive = false WHERE id = ? [42102-232]
+2025-07-11 10:24:43.754189Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CLIENTS" not found; SQL statement:
+UPDATE clients SET archive = false WHERE id = ? [42102-232]
+2025-07-11 10:24:47.834168Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CLIENTS" not found; SQL statement:
+UPDATE clients SET archive = false WHERE id = ? [42102-232]
+2025-07-11 10:25:18.188406Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CLIENTS" not found; SQL statement:
+UPDATE clients SET archive = false WHERE id = ? [42102-232]
